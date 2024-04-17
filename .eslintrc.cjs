@@ -28,5 +28,8 @@ module.exports = {
         "react"
     ],
     "rules": {
+        "react/prop-types": "off",
+        "react/jsx-no-target-blank": "off",
+        "react/react-in-jsx-scope": "off",
     }
 }
